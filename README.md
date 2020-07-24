@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 
 -->
-[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch)
+### Here some interesting repos 🡻
+[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [Princebot](https://github.com/batichico/princebot
+)
