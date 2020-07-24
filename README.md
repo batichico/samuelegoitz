@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### Im proactive person, good team worker and I like to learn new technologies.
 ## Here you can check what languages I used in all my repos :)
-## 🡻🡻🡻🡻🡻🡻🡻🡻
+🡻🡻🡻🡻🡻🡻🡻🡻
 <img src="https://gitlang.mrmarble.dev/batichico?format=svg">
 
 <!--
