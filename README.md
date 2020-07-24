@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://gitlang.mrmarble.dev/batichico?format=svg">
+
 -->
+<img src="https://gitlang.mrmarble.dev/batichico?format=svg">
