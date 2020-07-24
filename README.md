@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi, im Samuel Guibert founder of [@boterostg](https://github.com/boterostg) community. I like develop bots for Telegram, learn new technologies and help people with coding. 
 ### Im proactive person, good team worker and I like to learn new technologies.
 ### Here you can check the languages that I used in my repos 🡻
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true)![Profile views](https://gpvc.arturio.dev/batichico)
+
 ### Here some interesting repos 🡻
 [How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [Princebot](https://github.com/batichico/princebot
 )
