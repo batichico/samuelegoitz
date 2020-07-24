@@ -2,9 +2,7 @@
 ### Im proactive person, good team worker and I like to learn new technologies.
 ### Here you can check what languages I used in my repos 🡻
 
-<!DOCTYPE html>
-<html>
-<head>
+
 <style>
 .button {
   display: inline-block;
@@ -29,10 +27,9 @@
   transform: translateY(4px);
 }
 </style>
-</head>
-<body>
+
 <button class="button">PORTFOLIO</button>
-</body>
+
 <img src="https://gitlang.mrmarble.dev/batichico?format=svg">
 
 <!--
