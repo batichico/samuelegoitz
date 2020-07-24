@@ -1,5 +1,8 @@
 ### Hi there 👋 
 ### Im proactive person, good team worker and I like to learn new technologies.
+## Here you can check what languages I used in all my repos :)
+## 🡻🡻🡻🡻🡻🡻🡻🡻
+<img src="https://gitlang.mrmarble.dev/batichico?format=svg">
 
 <!--
 **batichico/batichico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +20,3 @@ Here are some ideas to get you started:
 
 
 -->
-<img src="https://gitlang.mrmarble.dev/batichico?format=svg">
