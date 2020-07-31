@@ -2,7 +2,7 @@
 ### Here you can check the languages that I used in my repos 🡻
 
 <img src="https://gitlang.mrmarble.dev/batichico?format=svg">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?batichico" frameborder="0"></iframe>
+<img src="src="https://ionicabizau.github.io/github-profile-languages/api.html?batichico" frameborder="0">
 
 <!--
 **batichico/batichico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
