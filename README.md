@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
 ### Hi there 👋, my name is Samuel
 ### I'm a Junior Python Developer, founder of [@boterostg](https://github.com/boterostg) community. I like develop bots for Telegram, learn new technologies and help people with coding. 
 #### Here you can check the languages that I used in my repos 🡻
