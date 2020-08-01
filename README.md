@@ -25,5 +25,5 @@ src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' heig
 
 
 ### Here some interesting repos 🡻
-[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [Princebot](https://github.com/batichico/princebot
+[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [How to create simple API](https://github.com/batichico/praticeHugAPI) || [Princebot](https://github.com/batichico/princebot 
 )
