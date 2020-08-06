@@ -12,7 +12,7 @@ My Github Stats:
 
 Tech Stack, 
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&color=007396"/><img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=PHP&color=777BB4&logoColor=white"/><img src="https://img.shields.io/badge/-Vuejs-red?style=for-the-badge&logo=Vue.js&color=4FC08D&logoColor=white"/><img src="https://img.shields.io/badge/-And_more...-red?style=for-the-badge&color=5757B0"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&color=007396"/><img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=PHP&color=777BB4&logoColor=white"/><img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=PHP&color=777BB4&logoColor=white"/><img src="https://img.shields.io/badge/-And_more...-red?style=for-the-badge&color=5757B0"/><img src="https://img.shields.io/badge/-docker-red?style=for-the-badge&logo=docker&color=2496ed&logoColor=white"/>
 
  PYTHON / UNIT TESTS/ JS / HTML / CSS / PostgreSQL
 
