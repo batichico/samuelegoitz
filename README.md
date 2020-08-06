@@ -72,7 +72,9 @@ No Activity tracked this Week
 To connect with me,
 
 [<img 
-src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/batichico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-guibert/) [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8728069)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg' alt='telegram' height='40'>](https://t.me/batichico) 
+src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/batichico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-guibert/) [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8728069)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg' alt='telegram' height='40'>](https://t.me/batichico)  [<https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='telegram' height='40'>](samuel.guibert.sevillano@gmail.com) 
+
+
 
 ### Here some interesting repos 🡻
 [How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [How to create simple API](https://github.com/batichico/praticeHugAPI) || [Princebot](https://github.com/batichico/princebot) || [Fighterbot](https://github.com/batichico/fighterbot)
