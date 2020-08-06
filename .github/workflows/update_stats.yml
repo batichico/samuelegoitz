@@ -1,9 +1,7 @@
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - master
+  cron: '0 0 * * *'
 
 jobs:
   update-readme:
