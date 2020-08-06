@@ -7,7 +7,7 @@ My Github Stats:
 
 <br>
 
-  <p align = "center">
+  <p align = "left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batichico&hide=css,html&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true&theme=radical&line_height=27"> 
  </p>
