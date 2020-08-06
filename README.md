@@ -12,17 +12,17 @@ My Github Stats:
     <img src="https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true&theme=radical&line_height=27"> 
  </p>
 
-
-Skills: PYTHON / UNIT TESTS/ JS / HTML / CSS / PostgreSQL
+Tech Stack,
+<p align = "center">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+ PYTHON / UNIT TESTS/ JS / HTML / CSS / PostgreSQL
 
 - 🔭 I’m currently working on creation of bots for Telegram 
 - 🌱 I’m currently learning MongoDB 
 - 💬 Ask me about Python, Telegram bots 
 - 📫 How to reach me: samuel.guibert.sevillano@gmail.com 
 
-<p align = "center">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</p>
 
 To connect with me,
 
