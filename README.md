@@ -9,6 +9,7 @@ My Github Stats:
   </p>
  
 ![Profile views](https://gpvc.arturio.dev/batichico)  
+![Profile views](https://badges.pufler.dev/visits/batichico/batichico?style=for-the-badge ) 
 
 Tech Stack: 
 
