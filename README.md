@@ -16,8 +16,6 @@ My Github Stats:
 
 ![Here you can check the languages that I used in my repos 🡻](https://www.bytelion.com/wp-content/uploads/2015/12/python-banner.png)
 
-
-
 Skills: PYTHON / UNIT TESTS/ JS / HTML / CSS / PostgreSQL
 
 - 🔭 I’m currently working on creation of bots for Telegram 
