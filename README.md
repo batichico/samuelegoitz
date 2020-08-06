@@ -12,7 +12,6 @@ My Github Stats:
     <img src="https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true&theme=radical&line_height=27"> 
  </p>
 
-![Here you can check the languages that I used in my repos 🡻](https://www.bytelion.com/wp-content/uploads/2015/12/python-banner.png)
 
 Skills: PYTHON / UNIT TESTS/ JS / HTML / CSS / PostgreSQL
 
@@ -25,6 +24,7 @@ Skills: PYTHON / UNIT TESTS/ JS / HTML / CSS / PostgreSQL
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+To connect with me,
 [<img 
 src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/batichico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-guibert/)  [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8728069)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg' alt='telegram' height='40'>](https://t.me/batichico) 
 
