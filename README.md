@@ -6,13 +6,15 @@ My Github Stats:
   <p align = "left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batichico&hide=css,html&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true&theme=radical&line_height=27"> 
- </p>
+  </p>
  
 ![Profile views](https://gpvc.arturio.dev/batichico)  
 
 Tech Stack, 
 
+<p align = "center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/unit_test%20-%23F05033.svg?&style=for-the-badge&logo=unit_test&logoColor=white"/><img src="https://img.shields.io/badge/postgresql%20-%2314354C.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&color=007396"/><img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=PHP&color=777BB4&logoColor=white"/><img src="https://img.shields.io/badge/-docker-red?style=for-the-badge&logo=docker&color=2496ed&logoColor=white"/><img src="https://img.shields.io/badge/-And_more...-red?style=for-the-badge&color=5757B0"/>
+</p>
 
 -  👨🏽‍💻 I’m currently working on Python backend Developer
 - 🕰 Free time: Creation of bots for Telegram 
