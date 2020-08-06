@@ -5,6 +5,7 @@ on:
     branches:
       - master
 
+
 jobs:
   update-readme:
     name: Update this repo's README
