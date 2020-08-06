@@ -10,6 +10,7 @@ My Github Stats:
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batichico&hide=css,html&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true&theme=radical&line_height=27"> 
+    ![Profile views](https://gpvc.arturio.dev/batichico)  
  </p>
 
 Tech Stack, 
@@ -31,10 +32,8 @@ To connect with me,
 [<img 
 src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/batichico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-guibert/) [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8728069)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg' alt='telegram' height='40'>](https://t.me/batichico) 
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=batichico&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/batichico)  
 
 
 ### Here some interesting repos 🡻
