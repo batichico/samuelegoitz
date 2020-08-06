@@ -22,6 +22,8 @@ Tech Stack:
 - 💬 Ask me about Python, Telegram bots 
 - 📫 How to reach me: samuel.guibert.sevillano@gmail.com 
 
+---
+
 <details>
 <summary> My programming Stats: </summary>
 
