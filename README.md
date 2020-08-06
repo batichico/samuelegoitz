@@ -78,9 +78,3 @@ src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' heig
 
 ### Here some interesting repos 🡻
 [How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [How to create simple API](https://github.com/batichico/praticeHugAPI) || [Princebot](https://github.com/batichico/princebot) || [Fighterbot](https://github.com/batichico/fighterbot)
-
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
