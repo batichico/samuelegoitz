@@ -24,11 +24,8 @@ Tech Stack:
 
 ---
 
-<details>
-<summary> ⬅️⬅️⬅️ My programming Stats: </summary>
-  
+⬅️⬅️⬅️ My programming Stats:
 
-<!--START_SECTION:waka-->
 **I'm an early 🐤** 
 
 ```text
@@ -60,13 +57,6 @@ No Activity tracked this Week
 
 ```
 
-
-<!--END_SECTION:waka-->
-
-
----
-
-</details>
 
 
 To connect with me:
