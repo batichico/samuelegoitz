@@ -24,7 +24,7 @@ Tech Stack:
 
 ---
 
-⬅️⬅️⬅️ My programming Stats:
+My programming Stats:
 
 **I'm an early 🐤** 
 
