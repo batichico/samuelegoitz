@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Samuel
-### I'm a Junior Python Developer, founder of [@boterostg](https://github.com/boterostg) community. I like develop bots for Telegram, learn new technologies and help people with coding. 
+### I'm a Junior Python Developer, founder of [@boterostg](https://github.com/boterostg) community. I like to develop bots for Telegram, learn new technologies and help people with coding. 
 ---
 My Github Stats: 
 <br>
