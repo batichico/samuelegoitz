@@ -4,6 +4,7 @@
 <h3 align="center"><samp>I'm a Junior Python Developer, founder of <a href="https://github.com/boterostg">@boterostg</a> community. I like to develop bots for    Telegram, learn new technologies and help people with coding. </samp></h3>
 
 </br>
+<p><samp>Keyboard not found <br>Press F1 to continue</samp></p>
 ---
 My Github Stats: 
 <br>
