@@ -1,4 +1,3 @@
-@import 'https://fonts.googleapis.com/css?family=Press+Start+2P';
 
 h1 {
 	background: #ea6b77;
