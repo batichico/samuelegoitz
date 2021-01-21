@@ -2,12 +2,6 @@
 <h3 align="center">I'm a Junior Python Developer, founder of <a href="https://github.com/boterostg">@boterostg</a> community. I like to develop bots for Telegram, learn new technologies and help people with coding.</h3>
 </br>
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/batichico/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/batichico/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/batichico/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
-
 ---
 My Github Stats: 
 <br>
