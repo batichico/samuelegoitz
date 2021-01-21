@@ -62,7 +62,7 @@ No Activity tracked this Week
 To connect with me:
 
 [<img 
-src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/batichico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-guibert/) [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8728069)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg' alt='telegram' height='40'>](https://t.me/batichico) [<img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='gmail' height='40'>](mailto:samuel.guibert.sevillano@gmail.com)
+src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' height='40'>](https://github.com/batichico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='telegram' height='40'>](https://www.linkedin.com/in/samuel-guibert/) [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8728069)  [<img src='https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg' alt='telegram' height='40'>](https://t.me/batichico) [<img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='gmail' height='40'>](mailto:samuel.guibert.sevillano@gmail.com)
 
 
 
