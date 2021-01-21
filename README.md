@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Guibert</h1>
 <h3 align="center">I'm a Junior Python Developer, founder of [@boterostg](https://github.com/boterostg) community. I like to develop bots for Telegram, learn new technologies and help people with coding.</h3>
+</br>
 ---
 My Github Stats: 
 <br>
