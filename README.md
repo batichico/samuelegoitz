@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
-  
+<body>  
 <h1 align="center">Hi 👋, I'm Samuel Guibert</h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
@@ -79,3 +78,6 @@ src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' heig
 
 ### Here some interesting repositories 🡻
 [How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch) || [How to create simple API](https://github.com/batichico/praticeHugAPI) || [Princebot](https://github.com/batichico/princebot) || [Fighterbot](https://github.com/batichico/fighterbot)
+
+  </body>
+</html>
