@@ -5,7 +5,7 @@
     I'm a Junior Python Developer, founder of <a href="https://github.com/boterostg">@boterostg</a> community. I like to develop bots for    Telegram, learn new technologies and help people with coding.
   </samp>
 </p>
-
+</br>
 ---
 My Github Stats: 
 <br>
