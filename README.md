@@ -23,7 +23,7 @@ Tech Stack:
 
 -  👨🏽‍💻 I’m currently working as Software Developer
 - 🕰 Free time: Creation of bots for Telegram 
-- 🌱 I’m currently learning MongoDB 
+- 🌱 I’m currently learning MongoDB and Google Cloud
 - 💬 Ask me about Python, Telegram bots 
 - 📫 How to reach me: samuel.guibert.sevillano@gmail.com 
 
