@@ -71,7 +71,7 @@ src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' heig
 
 
 
-### Here some interesting repositories 🡻
+### Here some interesting repositories:
 |[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch)    |[How to create simple API](https://github.com/batichico/praticeHugAPI)   |[Princebot](https://github.com/batichico/princebot)   |[Fighterbot](https://github.com/batichico/fighterbot)   |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 
