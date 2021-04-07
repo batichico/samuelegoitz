@@ -75,8 +75,3 @@ src='https://www.vectorlogo.zone/logos/github/github-icon.svg' alt='github' heig
 |[How to create Telegram basic bot](https://github.com/batichico/botBasicoGlitch)    |[How to create simple API](https://github.com/batichico/praticeHugAPI)   |[Princebot](https://github.com/batichico/princebot)   |[Fighterbot](https://github.com/batichico/fighterbot)   |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
